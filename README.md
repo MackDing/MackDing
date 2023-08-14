@@ -26,4 +26,4 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+the+code+symphony%F0%9F%8E%BC;every+line+of+code+is+a+rythem+of+progress;Hi+there+%F0%9F%91%8B%2C+I+am+Mack+Ding;Welcome+to+My+Profile!+%F0%9F%8E%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+the+code+symphony+%F0%9F%8E%B6;every+line+of+code+is+a+rythem+;Hi+there+%F0%9F%91%8B%2C+I+am+Mack+Ding;Welcome+to+My+Profile!+%F0%9F%8E%B5)](https://git.io/typing-svg)
