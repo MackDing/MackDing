@@ -11,7 +11,7 @@
     <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
+    <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg" alt="Cypress.io" /></a>
     <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
     <!--  <a href="https://www.cypress.io/" rel="nofollow"><img src="https://camo.githubusercontent.com/16428bf59999e11f6c40a85fd6ac1e6ac7f040065a9107e94647020f3135676b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f746573746564253230776974682d437970726573732d3034433338452e737667" alt="Cypress.io" data-canonical-src="https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg" style="max-width: 100%;"></a>  -->
     
