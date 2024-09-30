@@ -1,14 +1,9 @@
 name: Generate Animation
 
 on:
-  # Run automatically every 24 hours
   schedule:
     - cron: "0 0 * * *"
-
-  # Allows manually running the job at any time
   workflow_dispatch:
-
-  # Run on every push to the master branch
   push:
     branches:
       - master
@@ -19,15 +14,12 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Checkout the repository to the runner
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      # Ensure the dist directory exists
       - name: Ensure dist directory exists
         run: mkdir -p dist
 
-      # Generates a snake game from a GitHub user's contributions graph
       - name: Generate GitHub contribution grid snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -38,7 +30,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Push the generated content to the output branch
+      - name: List files in dist directory (debugging)
+        run: ls -la dist
+
       - name: Push GitHub contribution grid snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
