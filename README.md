@@ -55,20 +55,3 @@
 
 
 
-# My Project
-
-## Introduction
-
-This project showcases how to embed GitHub Gist into a GitHub README.md file. Here are a couple of ways:
-
-### Option 1: Gist Link
-
-You can view my Gist directly on GitHub:
-
-[View the Gist on GitHub](https://gist.github.com/MackDing/f46e17c3422e4a238329a0e4a2d62a26)
-
-### Option 2: Embedded IFrame
-
-If you prefer direct embedding, below is the Gist displayed using an IFrame:
-
-<iframe src="https://gist.github.com/MackDing/f46e17c3422e4a238329a0e4a2d62a26.pibb" width="100%" height="600" frameborder="0"></iframe>
