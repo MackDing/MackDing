@@ -1,8 +1,6 @@
 ![](assets/Bottom_up.svg)
 
 
-
-
 <!--   my-icons -->
 <p align="center">
     <!-- <a href="https://gitpod.io/from-referrer/" rel="nofollow">
@@ -25,9 +23,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>    -->
 
 
-
-
-
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
@@ -44,14 +39,8 @@
 </picture>
 
 
-
-
-
-
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+the+code+symphony+%F0%9F%8E%B6;every+line+of+code+is+a+rythem+;Hi+there+%F0%9F%91%8B%2C+I+am+Mack+Ding;Welcome+to+My+Profile!+%F0%9F%8E%B5)](https:git.io/typing-svg)
-
-
 
 
 
