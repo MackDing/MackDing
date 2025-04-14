@@ -7,7 +7,6 @@
     <img src="https://camo.githubusercontent.com/6d5cc21f7c63bda76f682cd92905510feedb519f8af7b37b83e732eed068bbdc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476974706f642d72656164792d2d746f2d2d636f64652d3930386138353f6c6f676f3d676974706f64" alt="Gitpod ready-to-code" data-canonical-src="https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod" style="max-width: 100%;">
   </a> -->
     <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-    <a href="ChatGPT"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="PyTorch"><img src="http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C"></a>
     <a href="TensorFlow"><img src="http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00"></a>
