@@ -7,7 +7,8 @@
     <img src="https://camo.githubusercontent.com/6d5cc21f7c63bda76f682cd92905510feedb519f8af7b37b83e732eed068bbdc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476974706f642d72656164792d2d746f2d2d636f64652d3930386138353f6c6f676f3d676974706f64" alt="Gitpod ready-to-code" data-canonical-src="https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod" style="max-width: 100%;">
   </a> -->
     <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="ChatGPT"><img src="[https://awesome.re/badge.svg" alt="Awesome](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="PyTorch"><img src="http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C"></a>
     <a href="TensorFlow"><img src="http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00"></a>
     <a href="OpenCV"><img src="https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV"></a>
@@ -16,9 +17,9 @@
     <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg" alt="Cypress.io" /></a>
     <a href="MySQL"><img src="https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL"></a>
     <a href="SQLite"><img src="https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite"></a>
-    <a href="postgresql"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"></a>
+    <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"></a>
     <a href="Bash"><img src="https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash"></a>
-    <a href="Docker"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
+    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
     <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
     <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/JIRA-0052CC?logo=jira" alt="Jira" /></a>
     <!--  <a href="https://www.cypress.io/" rel="nofollow"><img src="https://camo.githubusercontent.com/16428bf59999e11f6c40a85fd6ac1e6ac7f040065a9107e94647020f3135676b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f746573746564253230776974682d437970726573732d3034433338452e737667" alt="Cypress.io" data-canonical-src="https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg" style="max-width: 100%;"></a>  -->
