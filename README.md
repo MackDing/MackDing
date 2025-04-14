@@ -11,7 +11,6 @@
     <a href="PyTorch"><img src="http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C"></a>
     <a href="TensorFlow"><img src="http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00"></a>
     <a href="OpenCV"><img src="https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV"></a>
-    <a href="ChatGPT"><img src="https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT"></a>
     <a href="PyQt"><img src="https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt"></a>
     <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
     <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg" alt="Cypress.io" /></a>
