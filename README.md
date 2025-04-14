@@ -14,6 +14,7 @@
     <a href="OpenCV"><img src="https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV"></a>
     <a href="PyQt"><img src="https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt"></a>
     <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
+    <a href="React"><img src="https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black"></a>
     <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg" alt="Cypress.io" /></a>
     <a href="MySQL"><img src="https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL"></a>
     <a href="SQLite"><img src="https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite"></a>
