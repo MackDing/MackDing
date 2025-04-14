@@ -16,7 +16,7 @@
     <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg" alt="Cypress.io" /></a>
     <a href="MySQL"><img src="https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL"></a>
     <a href="SQLite"><img src="https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite"></a>
-    <a href="postgresql"><img src="ttps://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"></a>
+    <a href="postgresql"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"></a>
     <a href="Bash"><img src="https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash"></a>
     <a href="Docker"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
     <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
