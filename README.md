@@ -8,6 +8,7 @@
   </a> -->
     <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="PyQt"><img src="https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt"></a>
     <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
     <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg" alt="Cypress.io" /></a>
     <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="updating ></a>
