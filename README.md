@@ -2,41 +2,24 @@
 
 Building AI-native infrastructure for one-person companies (OPC). My work focuses on Claude Code tooling, AI agent orchestration, LLM API intelligence, and developer tools that let a single person operate at team scale.
 
-### Stack
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,go,docker,githubactions,bash&theme=light" alt="Python, TypeScript, Go, Docker, GitHub Actions, Bash" />
-</a>
-<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
-<img src="https://img.shields.io/badge/MCP-1A1A1A?style=for-the-badge&logoColor=white" alt="Model Context Protocol" />
-
-### Focus
-
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B35?style=for-the-badge)
-![Developer Tools](https://img.shields.io/badge/Developer_Tools-0066CC?style=for-the-badge)
-![LLM Infrastructure](https://img.shields.io/badge/LLM_Infrastructure-6F42C1?style=for-the-badge)
-![OPC Systems](https://img.shields.io/badge/OPC_Systems-E55555?style=for-the-badge)
-
-### What I Build
-
-- Claude Code tooling and session management extensions
-- MCP (Model Context Protocol) servers, routing, and multi-agent orchestration
-- AI agent frameworks for devops, finance, media, office, and social automation
-- OpenAI-compatible API monitoring, benchmarking, and gateway intelligence
-- Telegram bots for AI development workflows (Codex CLI, Claude Code)
-- LLM API gateway tracking across 200+ providers (Claude, DeepSeek, Gemini, OpenAI)
-- Autonomous coding pipelines and multi-agent systems
-
 ---
-
-<!--   awesome badge -->
-<p align="center">
-  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-</p>
 
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48"></a>
+
+<!--   badges -->
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Claude_API-Anthropic-orange?logo=anthropic&logoColor=white"></a>
+  <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-blue"></a>
+  <a href="https://github.com/astral-sh/uv"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white"></a>
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1.22-00ADD8?logo=go&logoColor=white"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white"></a>
+</p>
 
 ### 📊 GitHub Stats
 
@@ -66,6 +49,8 @@ Building AI-native infrastructure for one-person companies (OPC). My work focuse
 
 ### Featured Projects
 
+### 🌐 [opc.ren](https://opc.ren)
+
 🤖 **[CodexClaw](https://github.com/MackDing/CodexClaw)** — Telegram bot for Claude Code and Codex CLI with MCP routing, multi-agent orchestration, cron jobs, and access controls `24⭐`
 
 📡 **[awesome-ai-api](https://github.com/MackDing/awesome-ai-api)** — Curated list of 200+ AI API providers with daily ranking and live `/v1/models` probing for Claude, DeepSeek, Gemini, and more · [live site](https://mackding.github.io/awesome-ai-api/)
@@ -84,6 +69,6 @@ Building AI-native infrastructure for one-person companies (OPC). My work focuse
 
 🤖 **[ai-agents](https://github.com/MackDing/ai-agents)** — Monorepo of 5 specialized Claude API agents (devops · finance · media · office · social) sharing a common agentic loop. Adding a new domain = one `tools.py` file.
 
-### 🌐 [opc.ren](https://opc.ren)
+
 
 The hub for OPC founders — tools, signals, and community for building one-person companies with AI.
