@@ -66,15 +66,7 @@ Building AI-native infrastructure for one-person companies (OPC). My work focuse
 
 ### Agent Fleet
 
-Specialized Python agents built on the Anthropic Claude API, each owning one domain:
-
-| Agent | Domain |
-|-------|--------|
-| [devops-agent](https://github.com/MackDing/devops-agent) | CI/CD · infrastructure automation · incident response |
-| [finance-agent](https://github.com/MackDing/finance-agent) | portfolio analysis · market data · budget automation |
-| [media-agent](https://github.com/MackDing/media-agent) | content creation · media pipeline · metadata |
-| [office-agent](https://github.com/MackDing/office-agent) | document automation · scheduling · workflow |
-| [social-agent](https://github.com/MackDing/social-agent) | social media automation · content scheduling · cross-platform |
+🤖 **[ai-agents](https://github.com/MackDing/ai-agents)** — Monorepo of 5 specialized Claude API agents (devops · finance · media · office · social) sharing a common agentic loop. Adding a new domain = one `tools.py` file.
 
 ### 🌐 [opc.ren](https://opc.ren)
 
