@@ -54,4 +54,32 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+the+code+symphony+%F0%9F%8E%B6;every+line+of+code+is+a+rythem+;Hi+there+%F0%9F%91%8B%2C+I+am+Mack+Ding;Welcome+to+My+Profile!+%F0%9F%8E%B5)](https:git.io/typing-svg)
 
 
+---
 
+## 🦞 What I'm Building
+
+> OPC (One-Person Company) infrastructure — AI agents that let one person operate at the scale of a team.
+
+### Featured Projects
+
+🤖 **[CodexClaw](https://github.com/MackDing/CodexClaw)** — Telegram bot for remote Codex access with MCP + subagent routing `24⭐`
+
+📡 **[awesome-ai-api](https://github.com/MackDing/awesome-ai-api)** — Leaderboard of 200+ AI API gateways & relays, daily /v1/models probe
+
+🧠 **[claude-context-health](https://github.com/MackDing/claude-context-health)** — Diagnose & fix Claude Code session degradation (5 failure modes)
+
+📊 **[opc-daily-signal](https://github.com/MackDing/opc-daily-signal)** — AI-powered daily decision intelligence for OPC founders
+
+📄 **[doc-preprocess-hub](https://github.com/MackDing/doc-preprocess-hub)** — Enterprise document preprocessing — MinerU + docling + PII redaction
+
+☸️ **[hermes-manager](https://github.com/MackDing/hermes-manager)** — K8s-native control plane for Hermes Agent fleets
+
+### Agent Fleet
+
+A suite of specialized AI agents, each handling one domain:
+
+[devops-agent](https://github.com/MackDing/devops-agent) · [finance-agent](https://github.com/MackDing/finance-agent) · [media-agent](https://github.com/MackDing/media-agent) · [office-agent](https://github.com/MackDing/office-agent) · [social-agent](https://github.com/MackDing/social-agent)
+
+### 🌐 [opc.ren](https://opc.ren)
+
+The hub for OPC founders — tools, signals, and community for building one-person companies with AI.
