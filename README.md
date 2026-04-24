@@ -1,11 +1,24 @@
-# Mack Ding — OPC Builder & AI Tools Developer
+# Mack Ding — OPC Builder & AI Native Developer
 
 Building AI-native infrastructure for one-person companies (OPC). My work focuses on Claude Code tooling, AI agent orchestration, LLM API intelligence, and developer tools that let a single person operate at team scale.
 
-**Stack:** Python · TypeScript · Go · Claude API · MCP (Model Context Protocol)  
-**Focus:** AI agents · Developer tools · LLM infrastructure · OPC systems
+### Stack
 
-**What I Build:**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,ts,go,docker,githubactions,bash&theme=light" alt="Python, TypeScript, Go, Docker, GitHub Actions, Bash" />
+</a>
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+<img src="https://img.shields.io/badge/MCP-1A1A1A?style=for-the-badge&logoColor=white" alt="Model Context Protocol" />
+
+### Focus
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B35?style=for-the-badge)
+![Developer Tools](https://img.shields.io/badge/Developer_Tools-0066CC?style=for-the-badge)
+![LLM Infrastructure](https://img.shields.io/badge/LLM_Infrastructure-6F42C1?style=for-the-badge)
+![OPC Systems](https://img.shields.io/badge/OPC_Systems-E55555?style=for-the-badge)
+
+### What I Build
+
 - Claude Code tooling and session management extensions
 - MCP (Model Context Protocol) servers, routing, and multi-agent orchestration
 - AI agent frameworks for devops, finance, media, office, and social automation
@@ -16,22 +29,25 @@ Building AI-native infrastructure for one-person companies (OPC). My work focuse
 
 ---
 
-<!--   badges -->
+<!--   awesome badge -->
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Claude_API-Anthropic-orange?logo=anthropic&logoColor=white"></a>
-  <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-blue"></a>
-  <a href="https://github.com/astral-sh/uv"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white"></a>
-  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1.22-00ADD8?logo=go&logoColor=white"></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
-  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white"></a>
 </p>
 
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48"></a>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MackDing&show_icons=true&count_private=true&hide_border=true&theme=transparent" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MackDing&layout=compact&hide_border=true&theme=transparent" height="160" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MackDing&hide_border=true&theme=transparent" height="160" alt="GitHub streak" />
+</p>
 
 #### 🐍 GitHub Activity:
 <picture>
@@ -52,7 +68,7 @@ Building AI-native infrastructure for one-person companies (OPC). My work focuse
 
 🤖 **[CodexClaw](https://github.com/MackDing/CodexClaw)** — Telegram bot for Claude Code and Codex CLI with MCP routing, multi-agent orchestration, cron jobs, and access controls `24⭐`
 
-📡 **[awesome-ai-api](https://github.com/MackDing/awesome-ai-api)** — Curated list of 200+ AI API providers with daily ranking and live `/v1/models` probing for Claude, DeepSeek, Gemini, and more `[live site](https://mackding.github.io/awesome-ai-api/)`
+📡 **[awesome-ai-api](https://github.com/MackDing/awesome-ai-api)** — Curated list of 200+ AI API providers with daily ranking and live `/v1/models` probing for Claude, DeepSeek, Gemini, and more · [live site](https://mackding.github.io/awesome-ai-api/)
 
 🧠 **[claude-context-health](https://github.com/MackDing/claude-context-health)** — Claude Code context monitoring and token health tooling — diagnose and fix session degradation
 
