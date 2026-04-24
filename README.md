@@ -5,6 +5,15 @@ Building AI-native infrastructure for one-person companies (OPC). My work focuse
 **Stack:** Python · TypeScript · Go · Claude API · MCP (Model Context Protocol)  
 **Focus:** AI agents · Developer tools · LLM infrastructure · OPC systems
 
+**What I Build:**
+- Claude Code tooling and session management extensions
+- MCP (Model Context Protocol) servers, routing, and multi-agent orchestration
+- AI agent frameworks for devops, finance, media, office, and social automation
+- OpenAI-compatible API monitoring, benchmarking, and gateway intelligence
+- Telegram bots for AI development workflows (Codex CLI, Claude Code)
+- LLM API gateway tracking across 200+ providers (Claude, DeepSeek, Gemini, OpenAI)
+- Autonomous coding pipelines and multi-agent systems
+
 ---
 
 <!--   badges -->
@@ -41,11 +50,11 @@ Building AI-native infrastructure for one-person companies (OPC). My work focuse
 
 ### Featured Projects
 
-🤖 **[CodexClaw](https://github.com/MackDing/CodexClaw)** — Telegram bot for remote Codex + Claude Code access with MCP routing, subagents, and cron scheduler `24⭐`
+🤖 **[CodexClaw](https://github.com/MackDing/CodexClaw)** — Telegram bot for Claude Code and Codex CLI with MCP routing, multi-agent orchestration, cron jobs, and access controls `24⭐`
 
-📡 **[awesome-ai-api](https://github.com/MackDing/awesome-ai-api)** — Leaderboard of 200+ AI API gateways & relays with daily `/v1/models` probe. Bilingual EN/中文 `[live site](https://mackding.github.io/awesome-ai-api/)`
+📡 **[awesome-ai-api](https://github.com/MackDing/awesome-ai-api)** — Curated list of 200+ AI API providers with daily ranking and live `/v1/models` probing for Claude, DeepSeek, Gemini, and more `[live site](https://mackding.github.io/awesome-ai-api/)`
 
-🧠 **[claude-context-health](https://github.com/MackDing/claude-context-health)** — Diagnose & fix Claude Code session degradation — 5 failure modes, actionable fixes
+🧠 **[claude-context-health](https://github.com/MackDing/claude-context-health)** — Claude Code context monitoring and token health tooling — diagnose and fix session degradation
 
 📊 **[opc-daily-signal](https://github.com/MackDing/opc-daily-signal)** — AI-powered daily decision intelligence for OPC founders
 
@@ -57,15 +66,15 @@ Building AI-native infrastructure for one-person companies (OPC). My work focuse
 
 ### Agent Fleet
 
-Specialized Python agents built on the Claude API, each owning one domain:
+Specialized Python agents built on the Anthropic Claude API, each owning one domain:
 
 | Agent | Domain |
 |-------|--------|
-| [devops-agent](https://github.com/MackDing/devops-agent) | CI/CD · infrastructure · incident response |
-| [finance-agent](https://github.com/MackDing/finance-agent) | portfolio · market data · budget analysis |
-| [media-agent](https://github.com/MackDing/media-agent) | content creation · metadata · distribution |
-| [office-agent](https://github.com/MackDing/office-agent) | document processing · scheduling · email |
-| [social-agent](https://github.com/MackDing/social-agent) | publishing · engagement · cross-platform |
+| [devops-agent](https://github.com/MackDing/devops-agent) | CI/CD · infrastructure automation · incident response |
+| [finance-agent](https://github.com/MackDing/finance-agent) | portfolio analysis · market data · budget automation |
+| [media-agent](https://github.com/MackDing/media-agent) | content creation · media pipeline · metadata |
+| [office-agent](https://github.com/MackDing/office-agent) | document automation · scheduling · workflow |
+| [social-agent](https://github.com/MackDing/social-agent) | social media automation · content scheduling · cross-platform |
 
 ### 🌐 [opc.ren](https://opc.ren)
 
