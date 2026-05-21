@@ -1,6 +1,6 @@
-# Mack Ding — OPC Builder & AI Native Developer
+# Mack Ding — AI Native & OPC Builder
 
-Building AI-native infrastructure for one-person companies (OPC). My work focuses on Claude Code tooling, AI agent orchestration, LLM API intelligence, and developer tools that let a single person operate at team scale.
+I build AI-native operating systems for developers, knowledge workers, and growth operators.
 
 ---
 ![](assets/Bottom_up.svg)
