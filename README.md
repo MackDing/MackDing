@@ -71,8 +71,6 @@ I build AI-native operating systems for developers, knowledge workers, and growt
 
 ## 🦞 What I'm Building
 
-> OPC (One-Person Company) infrastructure — AI agents that let one person operate at the scale of a team.
-
 ### Featured Projects
 
 🤖 **[CodexClaw](https://github.com/MackDing/CodexClaw)** — Telegram bot for Claude Code and Codex CLI with MCP routing, multi-agent orchestration, cron jobs, and access controls &nbsp;![stars](https://img.shields.io/github/stars/MackDing/CodexClaw?style=social)
@@ -92,6 +90,6 @@ I build AI-native operating systems for developers, knowledge workers, and growt
 
 🤖 **[ai-agents](https://github.com/MackDing/ai-agents)** — Monorepo of 5 specialized Claude API agents (devops · finance · media · office · social) sharing a common agentic loop. Adding a new domain = one `tools.py` file.
 
-The hub for OPC founders — tools, signals, and community for building one-person companies with AI.
+
 
 
