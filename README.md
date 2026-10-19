@@ -79,8 +79,6 @@ I build AI-native operating systems for developers, knowledge workers, and growt
 
 🧠 **[claude-context-health](https://github.com/MackDing/claude-context-health)** — Claude Code context monitoring and token health tooling — diagnose and fix session degradation
 
-📊 **[opc-daily-signal](https://github.com/MackDing/opc-daily-signal)** — AI-powered daily decision intelligence for OPC founders
-
 📄 **[doc-preprocess-hub](https://github.com/MackDing/doc-preprocess-hub)** — Enterprise document preprocessing pipeline — MinerU + docling + PII redaction + audit console
 
 ☸️ **[hermes-manager](https://github.com/MackDing/hermes-manager)** — K8s-native control plane for AI agent fleets, 5-minute Helm install
