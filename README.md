@@ -1,4 +1,4 @@
-# Mack Ding — AI Native & OPC Builder
+# Mack Ding — AI Native
 
 I build AI-native operating systems for developers, knowledge workers, and growth operators.
 
@@ -87,13 +87,10 @@ I build AI-native operating systems for developers, knowledge workers, and growt
 
 ☸️ **[hermes-manager](https://github.com/MackDing/hermes-manager)** — K8s-native control plane for AI agent fleets, 5-minute Helm install
 
-🔐 **[agent-vault](https://github.com/MackDing/agent-vault)** — HTTP credential proxy and vault for AI agents — zero-secret-exposure tool calls
 
 ### Agent Fleet
 
 🤖 **[ai-agents](https://github.com/MackDing/ai-agents)** — Monorepo of 5 specialized Claude API agents (devops · finance · media · office · social) sharing a common agentic loop. Adding a new domain = one `tools.py` file.
-
-### 🌐 [opc.ren](https://opc.ren)
 
 The hub for OPC founders — tools, signals, and community for building one-person companies with AI.
 
